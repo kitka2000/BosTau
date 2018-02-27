@@ -1,0 +1,226 @@
+CLUSTAL 2.0.12 multiple sequence alignment
+
+
+ENSBTAT00000027510|GPC4|170874      TTCTCAACCTTAGAGAACAAGTGTTCATCGTCAGTTACAAAGGCACTGGT
+ENST00000370828|133300103|1333      TTCTCAAACTCTGAGAAAAAGTGTTCATCAAAAAGTTAAAAGGCACCAGT
+                                    ******* **  ***** ***********   *  *  ********  **
+
+ENSBTAT00000027510|GPC4|170874      TATCACTTTTATACCATCCTAGTGACTTTGCTTTTTAAATGAATGGACAA
+ENST00000370828|133300103|1333      TATCACTTTTCTACCATCCTAGTGACTTTGCTTTTTAAATGAATGGACAA
+                                    ********** ***************************************
+
+ENSBTAT00000027510|GPC4|170874      CAATGTACAGTTTTTACTATGTGGCCACTGGTTTAAAAGATGCTGACTTT
+ENST00000370828|133300103|1333      CAATGTACAGTTTTTACTATGTGGCCACTGGTTTAAGAAGTGCTGACTTT
+                                    ************************************ *  **********
+
+ENSBTAT00000027510|GPC4|170874      GTTTTTGCATTCAGTTTTGTGGGAGAAGGGGATTGTATGTAAGGTCAGTC
+ENST00000370828|133300103|1333      GTTTTCTCATTCAGTTTTGGGAGGAAAAGGGACTGTGCATTGAGTTGGTT
+                                    *****  ************ * *  ** **** ***   *   **  ** 
+
+ENSBTAT00000027510|GPC4|170874      CGGCCTCCTC--AGTCATGTTAAATGTGGCTAACAGTGTAGGTACAGAGC
+ENST00000370828|133300103|1333      CCTGCTCCCCCAAACCATGTTAAACGTGGCTAACAGTGTAGGTACAGAAC
+                                    *   **** *  *  ********* *********************** *
+
+ENSBTAT00000027510|GPC4|170874      -GTAGTTAGTTGTGCATTTGTGATTTTTATCACTCT-------GTCTGTT
+ENST00000370828|133300103|1333      TATAGTTAGTTGTGCATTTGTGATTTT-ATCACTCTATTATTTGTTTGTA
+                                      ************************* ********       ** *** 
+
+ENSBTAT00000027510|GPC4|170874      TGTTTTCTTTCTGTTTG---TGGGGTTTTTTTCCTTTCAATATGATCTCA
+ENST00000370828|133300103|1333      TGTTTTTTTCTCATTTCGTTTGTGGGTTTTTTTTTCCAACTGTGATCTCG
+                                    ****** **    ***    ** ** ******  *   * * ******* 
+
+ENSBTAT00000027510|GPC4|170874      CCTTGTTTCTTACAAGAAAACCAGGGTCCTTTCTTGGCATGTAACATGTA
+ENST00000370828|133300103|1333      CCTTGTTTCTTACAAGCAAACCAGGGTCCCTTCTTGGCACGTAACATGTA
+                                    **************** ************ ********* **********
+
+ENSBTAT00000027510|GPC4|170874      CG------------------------------------------------
+ENST00000370828|133300103|1333      CGTATTTCTGAAATATTAAATAGCTGTACAGAAGCAGGTTTTATTTATCA
+                                    **                                                
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TGTTATCTTATTAAAAGAAAAAGCCCAAAAAGCAGTAAAATTTCCATTTC
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TCCCTGTTATTTTAGTTGCCTTATCTGGAGAGACGTGGAGGTGATTTTCT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TTTTTTTAAATTATTATTAAGACAGAATGTGAGGGCACAAGCAGGCTTCT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      GAGCCACTTGTCAGATTGTATTCAAAGCATCAATCCAAGAAGGAGGTTAT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      GTGTACTTCATTTATTGGTGATAGTTGGAAGAGACTGCAGACTACTGCTT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TGAATGAGTTGAATTACATAAGCTAAGATCACTATAGGTCCATTTCTTGA
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      ACCCACTTATACATAAAATGTAACCCATTTAGAAAAAGATTCTGGATATC
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      ATCCCCCTTGAAAGATAGAAAGCATTCAGGATGTCCCAGTTATCACATGT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TCACACTTGGGTTTAGGGGTGTTTTTTTTTAAAACCAGGCAGGTTAGCTA
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      GCCCACCCTGTGCTAGTTTTCATGTTCACACTGACCCTATTTGAATTAAT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      ATCCTTTGTTAGAGTGGTCGAGATTTCAAACCCAATTATGTACAGGGAGC
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TGTCTGAGAGCTAGCCAGAACTGGGGTACAGCCTGGGCTCAGGGAATAGC
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TGTCAACACTCGGGCAAAGTTTTTGTCTGTGCATGTGTATCTCCATTTGT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TTTGGGATCCCAGTTTTTGTTTTAAGAGAGTATAAGGTGTCTCATTTGAG
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TCTTTTTCTTACCTAGCCCCCTCTTATCAGTAAAACAAAGGACTTGCCAT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      GGTTCACAGCAATGTGCTACGATCCAAGATATCAGCCAAGGAGCCCACTT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      AGGGGAGAACTAGGTGTCCAGATTTTTGTATGTGTTGTTTTTCTTGGGGG
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      ATGGGGTGGGGTGGGAGTAGGTAGAGCTGAGAATACTACATCTTAGTGGT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      GACCTTTAGCCACGTGGGTGAAGTGGCAAAGGCCATGGCCATATCTGTTG
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TCCCAGGCCAAAGACTAACAACTGCCTTGGGAATCCCTTCCTTGTGTCCT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TACCAAATGATAGCTCATAAAACTCTGATAATGTAACAAATCACTTTCAA
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      AGGAGTTCCCAGAAGTCTTCAGAAAGACTAAAATTCTGTCTCTTCCTGCT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TTAGACAGCCATTAAGATCCCAACTAATTTTACCGAACCTAAAACCCACA
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      AAGAGGTTGTTTGTGTTATTGTTCAATCTTCAGTTGTAAGAGTAATTCTC
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TATTTTTATATTGAAACATAATTACTTGATAGCTCAGGGTCTACATTTCA
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TTCAACTTTTTACACCAAATTCTGCAGAGTGGTCAAAATGGAATATTGGG
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      GGCTGTTGTAAACAGAGGCTTAATTTTATTAGAAGTAGCCAGTTATTTAT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TAAAGCATGATGTTAATAAAATAGGCATATTCTGGCTGGTGTGTATAAGT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      GGTTTTTTTTTTAAAACAAATCAGAAGACATAAAATTGAAAAGGCACTCC
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      ATTTATATATAAGGGAAAATAGATTGTAAATAGCTAAGGGGCCTTGTGAG
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      AACTTGGAAAATGTGCTGATACTTAGTAACTACCTCAGTTGTGAGGAATT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TCCTTTTTAGCTTAGACTGCTATTACTTTTACTTGGTAGAAATGAATCTG
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      GTCTCCAAAATATGGCTCAGAGAGTTATCCCCATAGACCTTGTTAGATTG
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TTTTTAATTTAAAACCTTGAACTCTGCCCAGCTGTTTTCTTCCAGTCAAA
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TTCTCTAAACCAATAACATTTTCCAAATTAAGTATTCTTGAAGGTTCTTC
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TGAACTCTTACTGATTTGTTTTCTTTCTTTGCATTTTTTCCTGTTACTCT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TTTATTATTTAAATTGTCTCTTGCTTTTGAACTTCAACTATGAAATAAAC
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      AAATCATAGATTTTTCCATTCAGGTCTGACTGGATAACTCTTGGCTTCTA
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      AGCAGCTGGCAAGCTCACCCCCACTCCCCAAAAAAGAAGAAAGGCAAGTT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      GAATATTTTAAAACCTTAAGAGTTTGGAGTATGAAGTAGAATAAAAGCCT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      TGTTAGGAGAAGACCTGACTTTTCCAAAGTTAACAGCATGTGAAGGGCTT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      GTGTTTTACAAAGTCATTTATAAATTATTTTTCTTTAAAACACATCACCT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      ACTCTGTACCTTAAAGATTTTACAACTCTTAGATTTATATTTTATTTCAA
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      AAATCGTAACTAGCACCTGTTATTTTGATTAAAAGACACTGCGAAGAATT
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      GACGTAAATTTCTAAAGTTTAGTTACTGAGTGTTCAAAACCTAACAGTTC
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      --------------------------------------------------
+ENST00000370828|133300103|1333      ACATGAAGTAAAAATTGTCATTTGTGATTACAGAATCAAAATAAAAATAG
+                                                                                      
+
+ENSBTAT00000027510|GPC4|170874      ---------------
+ENST00000370828|133300103|1333      GTATGAATGGTGCTA
+                                                   
